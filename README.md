@@ -23,7 +23,11 @@ Please note that this data is scrapped from [Backlogged](https://www.backloggd.c
 3. Separating value per "Genre" for Question 1.
 4. Converting "K" to 1000
 
+![image](https://github.com/joidiaries/gamesplayanalysis/assets/150142726/3fa814ac-c4d4-4b86-bf4f-0a0b66a5861b)
+
+
 #### Results:
 
-![image](https://github.com/joidiaries/gamesplayanalysis/assets/150142726/50a475c3-6870-4c77-a1d7-6d86c35e7df0)
+![image](https://github.com/joidiaries/gamesplayanalysis/assets/150142726/69468097-fe11-484b-9568-93cd66af8445)
+
 ![image](https://github.com/joidiaries/gamesplayanalysis/assets/150142726/c2f7a5c8-8031-44e2-8220-f5c9e11aa3b9)
