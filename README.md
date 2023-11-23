@@ -29,5 +29,7 @@ Please note that this data is scrapped from [Backlogged](https://www.backloggd.c
 #### Results:
 
 ![image](https://github.com/joidiaries/gamesplayanalysis/assets/150142726/69468097-fe11-484b-9568-93cd66af8445)
+*The analysis shows the top 10 games under Adventure genre. Top 1 is Minecraft with 33,000 plays.*
 
 ![image](https://github.com/joidiaries/gamesplayanalysis/assets/150142726/c2f7a5c8-8031-44e2-8220-f5c9e11aa3b9)
+*The analysis shows the top 10 RPG games released in 2022. Top 1 is Elden Ring with 17,000 plays.*
